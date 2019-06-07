@@ -14,6 +14,7 @@ Jia-Li Yin, Yi-Chi Huang, Bo-Hao Chen, and Shao-Zhen Ye
 ## It was tested and runs under the following OSs:
 * Ubuntu 18.04
 * Elementary OS
+
 Might work under others, but didn't get to test any other OSs just yet.
 
 ## Getting Started:
