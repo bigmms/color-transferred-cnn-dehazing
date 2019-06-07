@@ -5,20 +5,21 @@ Jia-Li Yin, Yi-Chi Huang, Bo-Hao Chen, and Shao-Zhen Ye
 ![](/demo.png)
 
 ## Prerequisites:
-> * Linux
-> * Python 2.7
-> * Numpy 1.14.0
-> * OpenCV 3.4.0.12
-> * Keras 2.1.5
+* Linux
+* Python 2.7
+* Numpy 1.14.0
+* OpenCV 3.4.0.12
+* Keras 2.1.5
 
 ## It was tested and runs under the following OSs:
-> * Ubuntu 18.04
-> * Elementary OS
+* Ubuntu 18.04
+* Elementary OS
 Might work under others, but didn't get to test any other OSs just yet.
 
 ## Getting Started:
 ### Installation
 - Install python libraries and requests.
+
 ```bash
 pip install -r requirements.txt
 ```
