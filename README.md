@@ -9,6 +9,8 @@ Jia-Li Yin, Yi-Chi Huang, Bo-Hao Chen, and Shao-Zhen Ye
 * Numpy 1.14.0
 * OpenCV 3.4.0.12
 * Keras 2.1.5
+* Tensorflow 1.3.0
+* Tflearn 0.3.2
 
 ## It was tested and runs under the following OSs:
 * Ubuntu 18.04
