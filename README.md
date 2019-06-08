@@ -22,7 +22,7 @@ Might work under others, but didn't get to test any other OSs just yet.
 ### Installation
 - Install python libraries and requests.
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### Testing 
