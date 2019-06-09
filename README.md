@@ -1,7 +1,7 @@
 # Color Transferred Convolutional Neural Networks for Image Dehazing
 Jia-Li Yin, Yi-Chi Huang, Bo-Hao Chen, and Shao-Zhen Ye
 
-
+![](/demo.png)
 
 ## Prerequisites:
 * Linux
