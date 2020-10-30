@@ -33,15 +33,13 @@ python demo.py
 The test results will be saved in: `./TestOutput/.`
 
 ## Citation:
-    @ARTICLE{yin2019dehazing, 
-    author={J. {Yin} and Y. {Huang} and B. {Chen} and S. {Ye}}, 
-    journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-    title={Color Transferred Convolutional Neural Networks for Image Dehazing}, 
-    year={2019}, 
-    volume={}, 
-    number={}, 
-    pages={1-1}, 
-    keywords={Atmospheric modeling;Image color analysis;Integrated circuit modeling;Estimation;Standards;Computational modeling;Image dehazing;color transfer;deep learning}, 
-    doi={10.1109/TCSVT.2019.2917315}, 
-    ISSN={1051-8215}, 
-    month={},}
+    @ARTICLE{yin2019dehazing,  
+    author={J. -L. {Yin} and Y. -C. {Huang} and B. -H. {Chen} and S. -Z. {Ye}},  
+    journal={IEEE Transactions on Circuits and Systems for Video Technology},  
+    title={Color Transferred Convolutional Neural Networks for Image Dehazing},   
+    year={2020},  
+    volume={30},  
+    number={11},  
+    pages={3957-3967}, 
+    doi={10.1109/TCSVT.2019.2917315}}
+    
