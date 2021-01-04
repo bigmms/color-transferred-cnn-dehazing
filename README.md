@@ -1,7 +1,7 @@
 # Color Transferred Convolutional Neural Networks for Image Dehazing
 Jia-Li Yin, Yi-Chi Huang, Bo-Hao Chen, and Shao-Zhen Ye
 
-[![HitCount](http://hits.dwyl.com/bigmms/bigmms/color-transferred-cnn-dehazing.svg)](http://hits.dwyl.com/bigmms/bigmms/color-transferred-cnn-dehazing)
+[![HitCount](http://hits.dwyl.com/bigmms/bigmms/color-transferred-cnn-dehazing.svg)](./README.md)
 
 ![](/demo.png)
 
